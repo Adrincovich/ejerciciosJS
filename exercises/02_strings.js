@@ -21,6 +21,6 @@ document.write("   ", nuevaVariable2Case);
 primer espacio en blanco y guardarla en una variable (utilizar indexOf).*/
 
 var nuevaVariable3 = "Nuevo Texto"
-var nuevaVariable3Index = nuevaVariable3.lastIndexOf(" ");
+var nuevaVariable3Index = nuevaVariable3.indexOf(" ");
 
 document.write(" Posicion del espacio en blanco: ", nuevaVariable3Index)
