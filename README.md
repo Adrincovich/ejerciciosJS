@@ -16,7 +16,7 @@
 
 **a)** Dado el siguiente array: ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"] mostrar por consola los meses 5 y 11.<br>
 **b)** Ordenar el array de meses alfabéticamente y mostrarlo por consola (utilizar sort).<br>
-** c) ** Agregar un elemento al principio y al final del array (utilizar unshift y push).<br>
+**c)** Agregar un elemento al principio y al final del array (utilizar unshift y push).<br>
 **d)** Quitar un elemento del principio y del final del array (utilizar shift y pop).<br>
 **e)** Invertir el orden del array (utilizar reverse).<br>
 **f)** Unir todos los elementos del array en un único string donde cada mes este separado por un guión - (utilizar join).<br>
